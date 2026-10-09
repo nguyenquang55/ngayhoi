@@ -1,0 +1,90 @@
+[
+  {
+    "ma_phien": "P01",
+    "ngay": "2026-11-14",
+    "bat_dau": "09:00",
+    "ket_thuc": "10:00",
+    "phong": "Phòng 201",
+    "doanh_nghiep": "FPT Software",
+    "vi_tri": "Kỹ sư phần mềm",
+    "suc_chua": 30,
+    "con_cho": 12
+  },
+  {
+    "ma_phien": "P02",
+    "ngay": "2026-11-14",
+    "bat_dau": "09:00",
+    "ket_thuc": "10:00",
+    "phong": "Phòng 202",
+    "doanh_nghiep": "Viettel AI",
+    "vi_tri": "Kỹ sư dữ liệu",
+    "suc_chua": 30,
+    "con_cho": 5
+  },
+  {
+    "ma_phien": "P03",
+    "ngay": "2026-11-14",
+    "bat_dau": "10:15",
+    "ket_thuc": "11:15",
+    "phong": "Phòng 201",
+    "doanh_nghiep": "Toyota Việt Nam",
+    "vi_tri": "Kỹ sư sản xuất",
+    "suc_chua": 30,
+    "con_cho": 0
+  },
+  {
+    "ma_phien": "P04",
+    "ngay": "2026-11-14",
+    "bat_dau": "10:15",
+    "ket_thuc": "11:15",
+    "phong": "Phòng 202",
+    "doanh_nghiep": "VNPT Technology",
+    "vi_tri": "Kỹ sư mạng",
+    "suc_chua": 30,
+    "con_cho": 30
+  },
+  {
+    "ma_phien": "P05",
+    "ngay": "2026-11-14",
+    "bat_dau": "13:30",
+    "ket_thuc": "14:30",
+    "phong": "Phòng 201",
+    "doanh_nghiep": "Panasonic R&D",
+    "vi_tri": "Kỹ sư nhúng",
+    "suc_chua": 30,
+    "con_cho": 18
+  },
+  {
+    "ma_phien": "P06",
+    "ngay": "2026-11-14",
+    "bat_dau": "13:30",
+    "ket_thuc": "14:30",
+    "phong": "Phòng 202",
+    "doanh_nghiep": "MoMo",
+    "vi_tri": "Kỹ sư backend",
+    "suc_chua": 30,
+    "con_cho": 1
+  },
+  {
+    "ma_phien": "P07",
+    "ngay": "2026-11-14",
+    "bat_dau": "14:45",
+    "ket_thuc": "15:45",
+    "phong": "Hội trường",
+    "doanh_nghiep": "Sun* Inc.",
+    "vi_tri": "Phỏng vấn thử",
+    "suc_chua": 30,
+    "con_cho": 24
+  },
+  {
+    "ma_phien": "P08",
+    "ngay": "2026-11-14",
+    "bat_dau": "14:45",
+    "ket_thuc": "15:45",
+    "phong": "Phòng 203",
+    "doanh_nghiep": "Samsung SRV",
+    "vi_tri": "Kỹ sư AI",
+    "suc_chua": 30,
+    "con_cho": 30
+  }
+]
