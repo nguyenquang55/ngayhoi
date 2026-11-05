@@ -39,7 +39,7 @@ def dang_ky(d: DangKy):
         cur = db.execute("""
             INSERT INTO dang_ky (ma_sv, ma_phien)
             SELECT ?, ?
-            WHERE (SELECT COUNT(*) FROM dang_ky WHERE ma_phien = ?) < 30
+            WHERE (SELECT COUNT(*) FROM dang_ky WHERE ma_phien = ?) < 31
         """, (d.ma_sv, d.ma_phien, d.ma_phien))
         db.commit()
 
